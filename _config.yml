@@ -1,0 +1,28 @@
+name: Time to play
+favicon: null
+layout_spectrum: 0.9368447680026293
+typography_spectrum: 0.4750810086261481
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7182489570695907
+  lightness: 0.11437238403595984
+  saturation: 0.19177327933721244
+  rhythmicContrast: 0.6889359438791871
+purpose: []
