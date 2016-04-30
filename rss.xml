@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Time to play]]></title>
+        <description><![CDATA[Time to play]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Apr 2016 22:26:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photo by Tim Gouw | Unsplash]]></title>
+            <description><![CDATA[<article><h1>Photo by Tim Gouw | Unsplash</h1><p>Do-whatever-you-want high-resolution photo from Tim Gouw on Unsplash.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea7d4557a4b0b42c352ecf747f109d5c5f5ad01b.jpg"></article>]]></description>
+            <link>https://unsplash.com/photos/90FzfXFEEjo</link>
+            <guid isPermaLink="false">1e8e7fd8-6e17-4e4f-b706-82eefd3e93c9</guid>
+            <pubDate>Sat, 30 Apr 2016 22:26:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
